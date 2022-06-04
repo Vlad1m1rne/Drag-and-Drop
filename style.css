@@ -27,9 +27,9 @@
 }
 
 .items.over {
-border: 3px dashed red;
+  border: 3px dashed red;
 }
 
 .one {
-background-color: chartreuse;
+  background-color: chartreuse;
 }

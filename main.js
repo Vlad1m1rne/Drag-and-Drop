@@ -29,7 +29,7 @@ function handleEnd(e) {
   this.style.opacity = '1'
   items.forEach(item => {
     item.classList.remove('over')
-    this.classList.remove('one')
+    item.classList.remove('one')
   })
 
 }
